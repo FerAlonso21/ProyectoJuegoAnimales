@@ -1,3 +1,3 @@
 function hola(){
-    alert("n9 askoas");
+    alert("n9 sasa");
 }
