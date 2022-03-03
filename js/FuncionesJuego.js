@@ -2,8 +2,7 @@ var lista = new Array();
 function principal(){
     
     var animales = new Array();
-    var habitat = new Array();
-    
+    var habitat = new Array();    
     var ban1=true;
     var cont=1,cont2=0,ale;
     while (ban1 == true) {//  es solamente una bandera para que entre al ciclo 
